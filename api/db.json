@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "uniquie-1",
+      "name": "Eren Hançer",
+      "depart": "Bilişim",
+      "salary": "5000"
+    },
+    {
+      "name": "Mehmet Aydoğdu",
+      "salary": "2000",
+      "depart": "Bilişim",
+      "id": "uniquie-2"
+    },
+    {
+      "name": "Zeynep Bakkal",
+      "salary": "3000",
+      "depart": "İnsan Kaynakları",
+      "id": "JQDIxCU"
+    }
+  ]
+}
